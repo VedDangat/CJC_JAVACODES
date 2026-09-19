@@ -1,4 +1,5 @@
 public class BBBBB{
+
 public void m3(){
 
 int n=super.x;
